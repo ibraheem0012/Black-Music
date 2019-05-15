@@ -1,0 +1,6 @@
+owner=543888584479080458
+prefix=!
+game=playing Bhelp
+stayinchannel=true
+songinstatus=false
+token=NTc4MzA0MTA3NzYxMjM4MjQ2.XNxp7Q.XRr4GaAgL4HFNcsRx3Tk2oDW1_s
